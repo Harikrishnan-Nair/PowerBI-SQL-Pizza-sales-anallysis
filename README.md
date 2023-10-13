@@ -13,8 +13,19 @@ This project is to perform data analysis in SQL based on the KPIs defined and fo
 11. pizza_ingredients
 12. pizza_name
 
-
-![image](https://github.com/Harikrishnan-Nair/PowerBI-SQL-Pizza-sales-anallysis/assets/95662379/02bd5038-38c1-4aa6-9449-6e23ddd880b6)
-
-
 ![P1](https://github.com/Harikrishnan-Nair/PowerBI-SQL-Pizza-sales-anallysis/assets/95662379/b6fb8d18-5648-4db3-880d-b3a89542ef00)
+
+Key insights:
+1. Highest sales is observed as the weekend approaches, starting wednesday a slight increase is observed as each day passes with the order colume peaking on Friday
+2. Classic category pizzas are most sold followed by supreme, veggie and chicken
+3. Large size pizzas constitute to the major portion of sales volume
+4. July witnessed the highest sales followes by January
+
+Recommendations:
+1. Offers/discounts/cashbacks can be offered to maximise the sales in weekend
+2. On an average 2 pizzas are ordered per order so combos of different pizzas combinations can be used as a sale strategy
+3. For months with lower sales the inventory can be accordingly managed in order to prevent over stocking as the materials are generally perishable food stuffs and over the period it loses its value 
+
+
+
+
